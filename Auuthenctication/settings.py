@@ -6,7 +6,7 @@ SECRET_KEY = 'secreat'
 
 DEBUG = True
 
-# Allowed Hosts
+# contains allowed hosts
 ALLOWED_HOSTS = ["34.100.250.167"]
 
 # Application definition
