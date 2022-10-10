@@ -6,7 +6,7 @@ SECRET_KEY = 'secreat'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ["34.100.171.253"]
+ALLOWED_HOSTS = ["34.100.250.167"]
 
 # Application definition
 
