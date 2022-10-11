@@ -7,7 +7,7 @@ SECRET_KEY = 'secreat'
 DEBUG = True
 
 # allowed hosts ip addresses
-ALLOWED_HOSTS = ["34.100.250.167"]
+ALLOWED_HOSTS = ["34.73.172.178"]
 
 # Application definition
 
