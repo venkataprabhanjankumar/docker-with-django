@@ -7,7 +7,7 @@ SECRET_KEY = 'secreat'
 DEBUG = True
 
 # allowed hosts ip addresses
-ALLOWED_HOSTS = ["djangodemo-bem7xsvh4q-as.a.run.app"]
+ALLOWED_HOSTS = ["djangodemo-bem7xsvh4q-as.a.run.app","34.100.181.21"]
 
 # Application definition
 
